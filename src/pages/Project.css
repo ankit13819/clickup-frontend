@@ -1,0 +1,16 @@
+.main table {
+  border-collapse: collapse;
+  width: 100%;
+  background: #2e2e30;
+}
+
+.main th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.main tr:hover {
+  background-color: coral;
+}
